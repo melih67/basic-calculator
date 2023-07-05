@@ -16,4 +16,4 @@ Ceci est un projet de calculatrice simple réalisé en utilisant JavaScript, HTM
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/VotreNom/CalculatriceJavaScript.git
+   git clone https://github.com/melih67/basic-calculator.git
